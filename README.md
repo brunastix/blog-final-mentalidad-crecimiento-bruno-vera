@@ -34,6 +34,7 @@ También aprendí que un gráfico visualmente correcto puede representar informa
 
 En futuros proyectos voy a priorizar la comprensión, limpieza y validación de los datos antes de comenzar con el diseño del dashboard.
 
+Además, comprendí que documentar las decisiones tomadas permite revisar el proceso, detectar errores y comunicar con mayor claridad el trabajo realizado. Esta documentación también facilita que otras personas puedan comprender cómo se llegó a los resultados obtenidos.
 ## Evidencia de control de versiones
 
 Esta entrada fue desarrollada utilizando GitHub. Durante su elaboración se realizaron diferentes commits para documentar la creación inicial, las correcciones y las mejoras aplicadas al contenido.
