@@ -1,6 +1,6 @@
 # bl# Aprendiendo a limpiar y organizar datos en Excel
 
-## Contexto
+ Contexto
 
 Durante mi formación en Data Analytics comencé a trabajar con bases de datos en Excel para realizar análisis y construir indicadores. Al principio pensaba que la parte más importante de un proyecto era crear gráficos y presentar visualmente los resultados.
 
