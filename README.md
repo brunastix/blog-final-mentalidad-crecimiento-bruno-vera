@@ -1,4 +1,4 @@
-# bl# Aprendiendo a limpiar y organizar datos en Excel
+# De datos desordenados a información confiable: mi aprendizaje con Excel
 
  Contexto
 
